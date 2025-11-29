@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "date_created": "2025-11-01T10:15:00Z",
+    "name_beneficio": "Descuento en gimnasio",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=1",
+    "categoria_beneficio": "Salud"
+  },
+  {
+    "id": 2,
+    "date_created": "2025-11-02T09:30:00Z",
+    "name_beneficio": "2x1 en cine",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=2",
+    "categoria_beneficio": "Entretenimiento"
+  },
+  {
+    "id": 3,
+    "date_created": "2025-11-03T14:45:00Z",
+    "name_beneficio": "Cupones de supermercado",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=3",
+    "categoria_beneficio": "Consumo"
+  },
+  {
+    "id": 4,
+    "date_created": "2025-11-04T11:20:00Z",
+    "name_beneficio": "Clases de yoga online",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=4",
+    "categoria_beneficio": "Bienestar"
+  },
+  {
+    "id": 5,
+    "date_created": "2025-11-05T16:00:00Z",
+    "name_beneficio": "Descuento en libros",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=5",
+    "categoria_beneficio": "Educación"
+  },
+  {
+    "id": 6,
+    "date_created": "2025-11-06T08:10:00Z",
+    "name_beneficio": "Seguro de viaje",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=6",
+    "categoria_beneficio": "Seguros"
+  },
+  {
+    "id": 7,
+    "date_created": "2025-11-07T13:25:00Z",
+    "name_beneficio": "Streaming gratuito",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=7",
+    "categoria_beneficio": "Entretenimiento"
+  },
+  {
+    "id": 8,
+    "date_created": "2025-11-08T17:40:00Z",
+    "name_beneficio": "Clases de cocina",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=8",
+    "categoria_beneficio": "Educación"
+  },
+  {
+    "id": 9,
+    "date_created": "2025-11-09T12:00:00Z",
+    "name_beneficio": "Descuento en spa",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=9",
+    "categoria_beneficio": "Bienestar"
+  },
+  {
+    "id": 10,
+    "date_created": "2025-11-10T15:50:00Z",
+    "name_beneficio": "Cupones de delivery",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=10",
+    "categoria_beneficio": "Consumo"
+  },
+  {
+    "id": 11,
+    "date_created": "2025-11-11T09:05:00Z",
+    "name_beneficio": "Clases de idiomas",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=11",
+    "categoria_beneficio": "Educación"
+  },
+  {
+    "id": 12,
+    "date_created": "2025-11-12T18:30:00Z",
+    "name_beneficio": "Descuento en hotel",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=12",
+    "categoria_beneficio": "Viajes"
+  },
+  {
+    "id": 13,
+    "date_created": "2025-11-13T07:45:00Z",
+    "name_beneficio": "Entradas a conciertos",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=13",
+    "categoria_beneficio": "Entretenimiento"
+  },
+  {
+    "id": 14,
+    "date_created": "2025-11-14T20:10:00Z",
+    "name_beneficio": "Chequeo médico anual",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=14",
+    "categoria_beneficio": "Salud"
+  },
+  {
+    "id": 15,
+    "date_created": "2025-11-15T10:25:00Z",
+    "name_beneficio": "Descuento en ropa",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=15",
+    "categoria_beneficio": "Consumo"
+  },
+  {
+    "id": 16,
+    "date_created": "2025-11-16T14:55:00Z",
+    "name_beneficio": "Clases de programación",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=16",
+    "categoria_beneficio": "Educación"
+  },
+  {
+    "id": 17,
+    "date_created": "2025-11-17T11:40:00Z",
+    "name_beneficio": "Seguro de auto",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=17",
+    "categoria_beneficio": "Seguros"
+  },
+  {
+    "id": 18,
+    "date_created": "2025-11-18T19:20:00Z",
+    "name_beneficio": "Descuento en restaurantes",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=18",
+    "categoria_beneficio": "Consumo"
+  },
+  {
+    "id": 19,
+    "date_created": "2025-11-19T08:35:00Z",
+    "name_beneficio": "desciento en escuelas online",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=19",
+    "categoria_beneficio": "Educación"
+  },
+  {
+    "id": 20,
+    "date_created": "2025-11-20T21:00:00Z",
+    "name_beneficio": "Descuento en teatro",
+    "url_img_beneficio": "https://picsum.photos/300/200?random=20",
+    "categoria_beneficio": "Entretenimiento"
+  }
+]
